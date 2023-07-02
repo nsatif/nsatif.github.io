@@ -137,7 +137,7 @@
 /*	contact form
 ------------------------------------------------------*/
 
-   $('form#contactForm button.submit').click(function() {
+   $('form#contactForm button.send').click(function() {
 
       $('#image-loader').fadeIn();
 
